@@ -31,7 +31,6 @@ yarn run android
 <dl>
   
   <dt>Multi-Platform</dt>
-  <dd>this app communicates with a react App</dd>
    
   <dt> Galio framework (https://galio.io/)/</dt>
   <dd>Ready to use components and themes </dd>
