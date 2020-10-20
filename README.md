@@ -1,5 +1,5 @@
 #  ShareBike ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](http://standardjs.com/)
+![Asset 2](https://user-images.githubusercontent.com/69165378/96619728-70e54980-12fe-11eb-8d34-44fe6d9b1f7f.png)
 
 ## instructions 
 
