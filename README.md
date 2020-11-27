@@ -44,7 +44,7 @@ yarn run android
   <dd>Both configs are available in app/config</dd>
 </dl>
 
-## Project images
+## Screenshots
 <img src="/readmeimages/1.png" width="300" height="500"> <img src="/readmeimages/2.png" width="300" height="500"> <img src="/readmeimages/3.png" width="300" height="500">
 <img src="/readmeimages/6.png" width="300" height="500"><img src="/readmeimages/16.png" width="300" height="500">
 <img src="/readmeimages/7.png" width="300" height="500"> <img src="/readmeimages/8.png" width="300" height="500"> <img src="/readmeimages/9.png" width="300" height="500">
